@@ -20,9 +20,14 @@ Responsive controls that ensure a smooth and engaging experience.
 Implementation Details:
 
 HTML: Defines the structure of the game, including the game container, bird, and obstacles.
+
 CSS: Styles the game elements, such as the bird, pipes, and background, creating an appealing visual experience.
 JavaScript: Handles the core game logic, including:
 Gravity and flapping mechanics for the bird.
 Pipe generation and movement.
 Collision detection between the bird and obstacles.
 Scoring and game-over events.
+
+
+![slika1](https://github.com/user-attachments/assets/ccc88baf-3c57-43e4-9907-5826f75513c4)
+![slika2](https://github.com/user-attachments/assets/9706f977-d669-49fc-9db2-37fd064aa047)
